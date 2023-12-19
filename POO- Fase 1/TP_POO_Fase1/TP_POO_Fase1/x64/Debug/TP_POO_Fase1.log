@@ -1,0 +1,21 @@
+﻿  TP_POO_Fase1.cpp
+C:\Users\Utilizador\Desktop\POO- Fase 1\TP_POO_Fase1\TP_POO_Fase1\TP_POO_Fase1.cpp(30,8): error C2143: erro de sintaxe: ';' ausente antes de '*'
+C:\Users\Utilizador\Desktop\POO- Fase 1\TP_POO_Fase1\TP_POO_Fase1\TP_POO_Fase1.cpp(30,8): error C4430: faltando especificador de tipo - int assumido. Observação: C++ não suporta default-int
+C:\Users\Utilizador\Desktop\POO- Fase 1\TP_POO_Fase1\TP_POO_Fase1\TP_POO_Fase1.cpp(30,28): error C2238: token(s) inesperado(s) precedendo ';'
+C:\Users\Utilizador\Desktop\POO- Fase 1\TP_POO_Fase1\TP_POO_Fase1\TP_POO_Fase1.cpp(31,8): error C2143: erro de sintaxe: ';' ausente antes de '*'
+C:\Users\Utilizador\Desktop\POO- Fase 1\TP_POO_Fase1\TP_POO_Fase1\TP_POO_Fase1.cpp(31,8): error C4430: faltando especificador de tipo - int assumido. Observação: C++ não suporta default-int
+C:\Users\Utilizador\Desktop\POO- Fase 1\TP_POO_Fase1\TP_POO_Fase1\TP_POO_Fase1.cpp(31,28): error C2238: token(s) inesperado(s) precedendo ';'
+C:\Users\Utilizador\Desktop\POO- Fase 1\TP_POO_Fase1\TP_POO_Fase1\TP_POO_Fase1.cpp(67,22): error C2061: erro de sintaxe: identificador 'BEV'
+C:\Users\Utilizador\Desktop\POO- Fase 1\TP_POO_Fase1\TP_POO_Fase1\TP_POO_Fase1.cpp(72,22): error C2061: erro de sintaxe: identificador 'ICE'
+C:\Users\Utilizador\Desktop\POO- Fase 1\TP_POO_Fase1\TP_POO_Fase1\TP_POO_Fase1.cpp(68,16): error C2065: 'bevMotor': identificador não declarado
+C:\Users\Utilizador\Desktop\POO- Fase 1\TP_POO_Fase1\TP_POO_Fase1\TP_POO_Fase1.cpp(68,1): error C2541: 'delete': não é possível excluir objetos que não são ponteiros
+C:\Users\Utilizador\Desktop\POO- Fase 1\TP_POO_Fase1\TP_POO_Fase1\TP_POO_Fase1.cpp(69,9): error C2065: 'bevMotor': identificador não declarado
+C:\Users\Utilizador\Desktop\POO- Fase 1\TP_POO_Fase1\TP_POO_Fase1\TP_POO_Fase1.cpp(69,20): error C2065: 'bev': identificador não declarado
+C:\Users\Utilizador\Desktop\POO- Fase 1\TP_POO_Fase1\TP_POO_Fase1\TP_POO_Fase1.cpp(73,16): error C2065: 'iceMotor': identificador não declarado
+C:\Users\Utilizador\Desktop\POO- Fase 1\TP_POO_Fase1\TP_POO_Fase1\TP_POO_Fase1.cpp(73,1): error C2541: 'delete': não é possível excluir objetos que não são ponteiros
+C:\Users\Utilizador\Desktop\POO- Fase 1\TP_POO_Fase1\TP_POO_Fase1\TP_POO_Fase1.cpp(74,9): error C2065: 'iceMotor': identificador não declarado
+C:\Users\Utilizador\Desktop\POO- Fase 1\TP_POO_Fase1\TP_POO_Fase1\TP_POO_Fase1.cpp(74,20): error C2065: 'ice': identificador não declarado
+C:\Users\Utilizador\Desktop\POO- Fase 1\TP_POO_Fase1\TP_POO_Fase1\TP_POO_Fase1.cpp(79,13): error C2065: 'bevMotor': identificador não declarado
+C:\Users\Utilizador\Desktop\POO- Fase 1\TP_POO_Fase1\TP_POO_Fase1\TP_POO_Fase1.cpp(80,27): error C2065: 'bevMotor': identificador não declarado
+C:\Users\Utilizador\Desktop\POO- Fase 1\TP_POO_Fase1\TP_POO_Fase1\TP_POO_Fase1.cpp(82,13): error C2065: 'iceMotor': identificador não declarado
+C:\Users\Utilizador\Desktop\POO- Fase 1\TP_POO_Fase1\TP_POO_Fase1\TP_POO_Fase1.cpp(83,27): error C2065: 'iceMotor': identificador não declarado
